@@ -1,5 +1,5 @@
 <h3 align=center>
-[![Aviator Predictor](https://aviator-game.co.ke/wp-content/uploads/Aviator-PREDICTOR.png)](https://maftoomp.top/4/9141610)
+<img src='https://aviator-game.co.ke/wp-content/uploads/Aviator-PREDICTOR.png'>
 </h3>
 <h3 align=center>
 <table align=center> <tr>
