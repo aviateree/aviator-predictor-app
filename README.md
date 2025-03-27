@@ -1,5 +1,5 @@
 <h3 align=center>
-<img src='https://i.ytimg.com/vi/PFr1gorvUF4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBHmxNZJ-PW3JOhAryGaROkUkOqLw'>
+<img src='https://aviator-game.co.ke/wp-content/uploads/Aviator-PREDICTOR.png'>
 </h3>
 <h3 align=center>
 <table align=center> <tr>
